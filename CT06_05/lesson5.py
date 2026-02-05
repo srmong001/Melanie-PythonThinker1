@@ -95,8 +95,8 @@
 #     total = total + i
 # print(total)
 
-word = "DAVE"
-for char in word:
-    print("Give me a " + char + "!")
-print("What do we have?")
-print("Dave is the best!")
+# word = "DAVE"
+# for char in word:
+#     print("Give me a " + char + "!")
+# print("What do we have?")
+# print("Dave is the best!")
